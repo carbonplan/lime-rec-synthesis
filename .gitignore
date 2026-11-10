@@ -1,0 +1,12 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+# data is archived on Zenodo, not in git (see README)
+/data/
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+/tests/
+/figures/
