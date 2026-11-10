@@ -46,4 +46,4 @@ pixi run lab       # or open them interactively
 This work is licensed under an MIT license. 
 
 ## About us
-CarbonPlan is a nonprofit organization that uses data and science for climate action. We aim to improve the transparency and scientific integrity of climate solutions with open data and tools. Find out more at [carbonplan.org](https://carbonplan.org/) or get in touch by [opening an issue](https://github.com/carbonplan/soil-depth-sampling/issues/new) or [sending us an email](mailto:hello@carbonplan.org).
+CarbonPlan is a nonprofit organization that uses data and science for climate action. We aim to improve the transparency and scientific integrity of climate solutions with open data and tools. Find out more at [carbonplan.org](https://carbonplan.org/) or get in touch by [opening an issue](https://github.com/carbonplan/lime-rec-synthesis/issues/new) or [sending us an email](mailto:hello@carbonplan.org).
